@@ -1,0 +1,103 @@
+﻿  bonusy.cpp
+  enemy.cpp
+B:\Projekt\poligon\Project2\enemy.cpp(30,12): warning C4244: "inicjowanie": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+B:\Projekt\poligon\Project2\enemy.cpp(31,12): warning C4244: "inicjowanie": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  main.cpp
+B:\Projekt\poligon\Project2\enemy.cpp(30,12): warning C4244: "inicjowanie": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+B:\Projekt\poligon\Project2\enemy.cpp(31,12): warning C4244: "inicjowanie": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+B:\Projekt\poligon\Project2\main.cpp(42,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+B:\Projekt\poligon\Project2\main.cpp(52,53): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+B:\Projekt\poligon\Project2\main.cpp(71,54): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+B:\Projekt\poligon\Project2\main.cpp(136,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+B:\Projekt\poligon\Project2\main.cpp(141,71): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+B:\Projekt\poligon\Project2\main.cpp(141,45): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+B:\Projekt\poligon\Project2\main.cpp(142,84): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+B:\Projekt\poligon\Project2\main.cpp(142,50): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+B:\Projekt\poligon\Project2\main.cpp(143,88): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+B:\Projekt\poligon\Project2\main.cpp(143,54): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+B:\Projekt\poligon\Project2\main.cpp(144,84): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+B:\Projekt\poligon\Project2\main.cpp(144,50): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  menues.cpp
+  treasure.cpp
+  Generowanie kodu...
+  Tower Defence.vcxproj -> B:\Projekt\Tower_Defence\Debug\Tower Defence.exe
