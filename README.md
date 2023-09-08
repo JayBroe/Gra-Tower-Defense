@@ -20,4 +20,4 @@ informujący o liczbie zdobytych punktów.
 
 ## Screen
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Screenshot](image_1.png)
