@@ -17,3 +17,7 @@ zombie w postaci fioletowych główek poruszających się po wcześniej ustalony
 
 Po utraceniu wszystkich punktów życia gra się kończy i wyświetla się napis końcowy
 informujący o liczbie zdobytych punktów.
+
+## Screen
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
