@@ -22,4 +22,6 @@ informujący o liczbie zdobytych punktów.
 
 <p align="center">
   <img src="https://github.com/JayBroe/Gra-Tower-Defense/tree/main/Images/image_1.png" width="350" title="hover text">
+  <img src="https://github.com/JayBroe/Gra-Tower-Defense/tree/main/Images/image_1.png" width="350" alt="accessibility text">
+</p>
 </p>
