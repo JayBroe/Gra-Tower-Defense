@@ -11,9 +11,9 @@ zombie w postaci fioletowych główek poruszających się po wcześniej ustalony
 
 3 bonusy:
 
--dolary (+10 punktów przy trafieniu)
--zielone kulki (+1 do punktów życia)
--fioletowe gwiazdki (zmiana pocisków na niebieskie na 5 sekund)
+-dolary (+10 punktów przy trafieniu)<br>
+-zielone kulki (+1 do punktów życia)<br>
+-fioletowe gwiazdki (zmiana pocisków na niebieskie na 5 sekund)<br>
 
 Po utraceniu wszystkich punktów życia gra się kończy i wyświetla się napis końcowy
 informujący o liczbie zdobytych punktów.
