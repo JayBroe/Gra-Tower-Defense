@@ -1,4 +1,4 @@
-Nazwa Gry: Tower Defence 
+#Tower Defence 
 
 Celem gry jest najdłuższe powstrzymywanie nadchodzących zombie
 przed dostaniem się do skarbu (złote monety).
