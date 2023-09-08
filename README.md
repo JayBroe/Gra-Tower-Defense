@@ -18,7 +18,7 @@ zombie w postaci fioletowych główek poruszających się po wcześniej ustalony
 Po utraceniu wszystkich punktów życia gra się kończy i wyświetla się napis końcowy
 informujący o liczbie zdobytych punktów.
 
-Program napisany w języku C++ przy użyciu biblioteki graficznej SFML <img src="https://www.sfml-dev.org/" width="350" alt="SFML">
+Program napisany w języku C++ przy użyciu biblioteki graficznej <img src="https://www.sfml-dev.org/" width="350" alt="SFML">
 
 ## Screen
 
