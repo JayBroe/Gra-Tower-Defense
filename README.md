@@ -20,4 +20,6 @@ informujący o liczbie zdobytych punktów.
 
 ## Screen
 
-![Screenshot](image_1.png)
+<p align="center">
+  <img src="https://github.com/JayBroe/Gra-Tower-Defense/tree/main/Images/image_1.png" width="350" title="hover text">
+</p>
